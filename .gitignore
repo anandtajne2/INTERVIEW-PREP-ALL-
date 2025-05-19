@@ -1,0 +1,79 @@
+ExtentReport-Framework-Example/.settings/
+ExtentReport-Framework-Example/reports/
+ExtentReport-Framework-Example/target/
+ExtentReport-Framework-Example/test-output/
+ExtentReport-Framework-Example/.classpath
+ExtentReport-Framework-Example/.project
+
+java interview programs/.settings/
+java interview programs/bin/
+java interview programs/.classpath
+java interview programs/.project
+
+java8/.settings/
+java8/bin/
+java8/.classpath
+java8/.project
+
+Playwright-Framework-Example/.settings/
+Playwright-Framework-Example/target/
+Playwright-Framework-Example/.classpath
+Playwright-Framework-Example/.project
+
+Playwrightsession/.settings/
+Playwrightsession/target/
+Playwrightsession/.classpath
+Playwrightsession/.project
+
+SeleniumFrameworkDemo/.settings/
+SeleniumFrameworkDemo/target/
+SeleniumFrameworkDemo/test-output/
+SeleniumFrameworkDemo/.classpath
+SeleniumFrameworkDemo/.project
+
+# selenium-practice - demo programs
+selenium-practice/.settings/
+selenium-practice/target/
+selenium-practice/.classpath
+selenium-practice/.project
+
+# Selenium-TestNG-Practice
+Selenium-TestNG-Practice/.settings/
+Selenium-TestNG-Practice/target/
+Selenium-TestNG-Practice/test-output/
+Selenium-TestNG-Practice/.classpath
+Selenium-TestNG-Practice/.project
+
+# Selenium-With-Java8
+Selenium-With-Java8/.settings/
+Selenium-With-Java8/target/
+Selenium-With-Java8/.classpath
+Selenium-With-Java8/.project
+
+# store framework - selenium demo framework 
+StoreFramework/.settings/
+StoreFramework/target/
+StoreFramework/test-output/
+StoreFramework/.classpath
+StoreFramework/.project
+
+# test craft example - login page pom example 
+TestCraft-Example/.settings/
+TestCraft-Example/target/
+TestCraft-Example/test-output/
+TestCraft-Example/.classpath
+TestCraft-Example/.project
+
+# TestNG-Parallel example 
+TestNG-Parallel/.settings/
+TestNG-Parallel/target/
+TestNG-Parallel/.classpath
+TestNG-Parallel/.project
+
+# TestNG-Practice - TESTNG Demo Examples
+TestNG-Practice/.settings/
+TestNG-Practice/target/
+TestNG-Practice/test-output/
+TestNG-Practice/.classpath
+TestNG-Practice/.project
+ExtentReport-Framework-Example/src/main/java/com/test/App.java

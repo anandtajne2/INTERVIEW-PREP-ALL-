@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+
+	<groups>
+		<run>
+			<include name="SmokeTest" />
+			<include name="demo" />
+		</run>
+	</groups>
+
+	<test thread-count="5" name="Test">
+
+		<!-- <groups> <run> <include name="Smoke+Demo" /> </run> </groups> -->
+
+		<classes>
+			<class name="com.test.session5.grouping.CarLoan" />
+			<class name="com.test.session5.grouping.PersonalLoan" />
+			<class name="com.test.session5.grouping.HomeLoan" />
+		</classes>
+	</test> <!-- Test -->
+
+	<test thread-count="5" name="Test 2">
+
+		<!-- <groups> <run> <include name="Smoke+Demo" /> </run> </groups> -->
+		<classes>
+			<class name="com.test.session4.priority.PriorityDemo" />
+		</classes>
+	</test>
+</suite> <!-- Suite -->

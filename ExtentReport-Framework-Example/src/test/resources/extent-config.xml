@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+	<configuration>
+		<!-- report theme -->
+		<theme>standard</theme>
+
+		<!-- document encoding -->
+		<encoding>UTF-8</encoding>
+
+		<!-- protocol for script and stylesheets -->
+		<protocol>https</protocol>
+
+		<!-- title of the document -->
+		<documentTitle>Automation Test Report</documentTitle>
+
+		<!-- report name -->
+		<reportName>Login Page Test Report</reportName>
+
+		<!-- timestamp format -->
+		<timeStampFormat>MMM dd, yyyy HH:mm:ss</timeStampFormat>
+
+		<!-- custom javascript -->
+		<scripts>
+            <![CDATA[
+                $(document).ready(function() {
+                    $('.logo-container').hide();
+                });
+            ]]>
+		</scripts>
+	</configuration>
+</extentreports>

@@ -1,0 +1,10 @@
+[INFO ] 2025-01-07 21:07:47.958 [main] MyStoreV1 - url opened
+[INFO ] 2025-01-07 21:07:47.979 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-01-07 21:07:49.738 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-01-07 21:07:49.881 [main] MyStoreV1 - Email address entered in create account section.
+[INFO ] 2025-01-07 21:07:49.974 [main] MyStoreV1 - clicked on create an account button
+[INFO ] 2025-01-07 21:10:13.963 [main] MyStoreV1 - url opened
+[INFO ] 2025-01-07 21:10:13.980 [main] MyStoreV1 - ***************TestCase Verify Registration and Login starts*****************
+[INFO ] 2025-01-07 21:10:15.505 [main] MyStoreV1 - Clicked on sign in link
+[INFO ] 2025-01-07 21:10:15.630 [main] MyStoreV1 - Email address entered in create account section.
+[INFO ] 2025-01-07 21:10:15.709 [main] MyStoreV1 - clicked on create an account button

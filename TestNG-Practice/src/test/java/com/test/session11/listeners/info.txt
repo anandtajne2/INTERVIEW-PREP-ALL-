@@ -1,0 +1,31 @@
+Session 11 
+------------------
+
+TestNG Listeners 
+
+* you can use listeners to monitor and react to events during the test lifecycle such as 
+	test start 
+	test success 
+	test failure ... etc 
+	TestNg listeners allows you to add custom behavior to your test execution 
+	
+* Listeners enable you to handle specific event during the execution of tests.
+	for example - you can log information, capture screen shots on test failure or generate reports after test complete
+	
+Listeners 
+--------------
+ITestListener  - most popular
+IReporter
+ISuiteListener
+IInvokedMethod
+IHookable
+IConfigurationListener
+IConfigurableLister
+IAnnotationTransformer
+IExecution
+IMethodInterceptor 
+
+
+ITestListner in testng
+
+
