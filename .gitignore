@@ -1,3 +1,6 @@
+.metadata/
+.sonarlint/
+
 ExtentReport-Framework-Example/.settings/
 ExtentReport-Framework-Example/reports/
 ExtentReport-Framework-Example/target/
@@ -78,3 +81,4 @@ TestNG-Practice/.classpath
 TestNG-Practice/.project
 ExtentReport-Framework-Example/src/main/java/com/test/App.java
 /project add in git repo/TMB-SeleniumAutomationFramework
+/.metadata/
