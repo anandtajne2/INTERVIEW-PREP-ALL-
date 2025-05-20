@@ -69,6 +69,7 @@ TestCraft-Example/.project
 
 # TestNG-Parallel example 
 TestNG-Parallel/.settings/
+TestNG-Parallel/reports/
 TestNG-Parallel/target/
 TestNG-Parallel/test-output/
 TestNG-Parallel/.classpath
