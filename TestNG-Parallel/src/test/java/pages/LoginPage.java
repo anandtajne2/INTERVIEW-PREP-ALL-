@@ -10,16 +10,16 @@ import utils.ExtentReport;
 public class LoginPage {
 	private final WebDriver driver;
 
-	@FindBy(id = "username")
+	@FindBy(id = "user-name")
 	private WebElement usernameField;
 
 	@FindBy(id = "password")
 	private WebElement passwordField;
 
-	@FindBy(id = "loginButton")
+	@FindBy(id = "login-button")
 	private WebElement loginButton;
 
-	@FindBy(className = "error-message")
+	@FindBy(tagName = "h3")
 	private WebElement errorMessage;
 
 	public LoginPage(WebDriver driver) {
