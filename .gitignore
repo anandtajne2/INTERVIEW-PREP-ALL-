@@ -1,6 +1,14 @@
 .metadata/
 .sonarlint/
 
+# ExtentReport-Example
+ExtentReport-Example/.classpath
+ExtentReport-Example/.gitgnore
+ExtentReport-Example/.project
+ExtentReport-Example/.settings/
+ExtentReport-Example/.test-output/
+
+# ExtentReport-Framework-Example
 ExtentReport-Framework-Example/.settings/
 ExtentReport-Framework-Example/reports/
 ExtentReport-Framework-Example/target/
@@ -39,6 +47,13 @@ selenium-practice/.settings/
 selenium-practice/target/
 selenium-practice/.classpath
 selenium-practice/.project
+
+# Selenium-TestNG-Framework-Example
+Selenium-TestNG-Framework-Example/.test-output/
+Selenium-TestNG-Framework-Example/.classpath
+Selenium-TestNG-Framework-Example/.gitgnore
+Selenium-TestNG-Framework-Example/.project
+Selenium-TestNG-Framework-Example/.settings/
 
 # Selenium-TestNG-Practice
 Selenium-TestNG-Practice/.settings/
