@@ -3,4 +3,4 @@
 ExtentReport-Example/.classpath
 ExtentReport-Example/.project
 ExtentReport-Example/.settings/
-/.test-output/
+test-output/
