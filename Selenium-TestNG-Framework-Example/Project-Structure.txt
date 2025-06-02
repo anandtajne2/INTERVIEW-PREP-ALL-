@@ -1,0 +1,21 @@
+src/
+├── main/
+│   └── java/
+│       ├── base/
+│       │   └── BaseTest.java
+│       ├── pages/
+│       │   ├── LoginPage.java
+│       │   └── HomePage.java
+│       └── utils/
+│           ├── ConfigReader.java
+│           └── TestUtils.java
+└── test/
+    └── java/
+        ├── tests/
+        │   ├── LoginTests.java
+        │   └── ProductTests.java
+        └── listeners/
+            └── TestListener.java
+resources/
+├── config.properties
+└── testng.xml

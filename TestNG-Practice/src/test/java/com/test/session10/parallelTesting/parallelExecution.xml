@@ -6,7 +6,7 @@
 			<class
 				name="com.test.session10.parallelTesting.ParallelExecutionTest" />
 		</classes>
-	</test> Test
+	</test> <!-- Test -->
 	
 	<!-- <test name="Chrome Test">
 		<classes>

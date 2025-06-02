@@ -1,0 +1,11 @@
+current excercise 2 
+------------------------
+adding employee details 
+
+steps 
+-------------------
+1. Login into OrangeHRM
+2. Navigate to the "PIM" menu and select "Add Employee"
+3. Fill the required details (e.g : first name, last name)
+4. Click on the save button
+5. Verify that the employee is successfully added by checking the employee list for personal details
