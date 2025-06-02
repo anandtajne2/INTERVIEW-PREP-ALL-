@@ -27,6 +27,6 @@ public class LoginTest extends BaseTest {
 		loginPage.enterPassword("wrong_password");
 		loginPage.clickLogin();
 
-		Assert.assertEquals(loginPage.getErrorMessage(), "Username and password do not match any user in this service");
+		Assert.assertEquals(loginPage.getErrorMessage(), "Epic sadface: Username and password do not match any user in this service");
 	}
 }
