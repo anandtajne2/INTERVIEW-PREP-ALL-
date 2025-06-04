@@ -4,8 +4,8 @@
 	<listeners>
 		<listener class-name="listeners.TestListener" />
 	</listeners>
-	<test thread-count="5" name="Test">
-		<parameter name="browser" value="chrome" />
+	<test thread-count="2" name="Test">
+		<parameter name="browser" value="firefox" />
 		<classes>
 			<class name="tests.LoginTest" />
 		</classes>

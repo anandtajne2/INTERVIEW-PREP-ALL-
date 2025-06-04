@@ -13,7 +13,7 @@ public class ConfigReader {
 		try {
 			String configProp = "src" + File.separator + "main" + File.separator
 					+ "resources" + File.separator + "config.properties";
-			FileInputStream fis = new FileInputStream("src/main/resources/config.properties");
+			FileInputStream fis = new FileInputStream(configProp);
 
 			properties.load(fis);
 		} catch (IOException e) {
