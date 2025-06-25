@@ -99,3 +99,10 @@ TestNG-Practice/.project
 ExtentReport-Framework-Example/src/main/java/com/test/App.java
 /project add in git repo/TMB-SeleniumAutomationFramework
 /.metadata/
+
+# Test-Framework (drive wealth)
+Test-Framework/.settings/
+Test-Framework/target/
+Test-Framework/test-output/
+Test-Framework/.classpath
+Test-Framework/.project
