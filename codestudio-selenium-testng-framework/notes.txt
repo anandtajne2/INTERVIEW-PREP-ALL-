@@ -1,0 +1,34 @@
+Files should be present in framework 
+-------------------------------------
+1. Reusable method - utilities
+2. Logging - logs to monitor or trace application 
+3. Low maintenance - minimum changes are required to make modifications in application
+4. Reporting - extents report 
+5. test case mapping with manual test cases - link jira tickets on cases name or description 
+6. data changes without compiling 
+
+
+part 01
+------------------------------------
+1. create packages - pageobject, utilites & testcases
+2. add dependencies in pom.xml file 
+	- selenium webdriver
+	- webdrivermanager 
+	- Log4J2
+	- TestNG
+	- Apache POI
+	- Extent Report 
+	
+3. write test case -> to convert into automation 
+	folder -> testcases -> file MyStoreTestCases_V01.xlsx
+
+	
+part 02
+------------------------------------
+1. create class in page objects -> IndexPage 
+2. create class in page objects -> MyAccountPage
+3. create properties file -> configuration -> config.properties
+4. create class to read property -> utilities -> ReadConfig
+5. create base class -> base -> BaseClass 
+6. create log4J2 config inside base class 
+7. create class test case -> testcase -> TC_MyAccountPageTest

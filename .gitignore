@@ -106,3 +106,10 @@ Test-Framework/target/
 Test-Framework/test-output/
 Test-Framework/.classpath
 Test-Framework/.project
+
+# codestudio-selenium-testng-framework
+codestudio-selenium-testng-framework/.settings/
+codestudio-selenium-testng-framework/target/
+codestudio-selenium-testng-framework/test-output/
+codestudio-selenium-testng-framework/.classpath
+codestudio-selenium-testng-framework/.project
