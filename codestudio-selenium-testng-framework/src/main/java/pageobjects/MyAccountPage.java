@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import utilities.Utils;
+
 public class MyAccountPage {
 
 	// 1. create object of web driver
@@ -28,10 +30,12 @@ public class MyAccountPage {
 	// 4. write method for actions to perform on web page
 
 	public void enterCreateNewEmailId(String newEmailId) {
-		createNewEmailId.sendKeys(newEmailId);
+//		createNewEmailId.sendKeys(newEmailId);
+		Utils.sendKeys(driver, createNewEmailId, newEmailId);
 	}
 
 	public void clickToCreateNewEmail() {
-		createAnAccount.click();
+//		createAnAccount.click();
+		Utils.clickElement(driver, createAnAccount);
 	}
 }

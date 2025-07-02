@@ -43,6 +43,7 @@ public class BaseClass {
 		}
 		// applying implicit wait 10 sec
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(10));
+		driver.manage().window().maximize();
 
 		// for logs
 		logger = LogManager.getLogger("MyStoreV1");

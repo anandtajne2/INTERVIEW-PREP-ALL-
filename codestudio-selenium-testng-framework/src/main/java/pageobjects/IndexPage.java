@@ -5,6 +5,8 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
+import utilities.Utils;
+
 public class IndexPage {
 
 	// 1. create object of webdriver
@@ -25,6 +27,7 @@ public class IndexPage {
 	// 4. write method for actions to perform on web page
 
 	public void clickOnSignIn() {
-		signIn.click();
+//		signIn.click();
+		Utils.clickElement(driver, signIn);
 	}
 }

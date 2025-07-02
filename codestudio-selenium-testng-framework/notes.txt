@@ -9,7 +9,7 @@ Files should be present in framework
 
 
 part 01
-------------------------------------
+--------------------------------------------------------
 1. create packages - pageobject, utilites & testcases
 2. add dependencies in pom.xml file 
 	- selenium webdriver
@@ -24,7 +24,7 @@ part 01
 
 	
 part 02
-------------------------------------
+--------------------------------------------------------
 1. create class in page objects -> IndexPage 
 2. create class in page objects -> MyAccountPage
 3. create properties file -> configuration -> config.properties
@@ -32,3 +32,8 @@ part 02
 5. create base class -> base -> BaseClass 
 6. create log4J2 config inside base class 
 7. create class test case -> testcase -> TC_MyAccountPageTest
+
+8. after executing above mention script 
+9. create class in page objects -> MyAccountCreation
+10.create util class -> utitlies -> Utils  
+11.call page object method using utils method e.g click, send keys... etc
