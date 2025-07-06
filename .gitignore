@@ -113,3 +113,38 @@ codestudio-selenium-testng-framework/target/
 codestudio-selenium-testng-framework/test-output/
 codestudio-selenium-testng-framework/.classpath
 codestudio-selenium-testng-framework/.project
+Test-Framework-Master/.gitignore.rtf
+Test-Framework-Part1/ExtentReports/ExtentReport.html
+Test-Framework-Part2/untitled
+Test-Framework-Part3/.classpath
+Test-Framework-Part3/.DS_Store
+Test-Framework-Part3/.project
+Test-Framework-Part3/.settings/org.eclipse.jdt.core.prefs
+Test-Framework-Part3/.settings/org.eclipse.m2e.core.prefs
+Test-Framework-Part3/ExtentReports/Report_2025-07-06_00-44-00.html
+Test-Framework-Part3/src/.DS_Store
+Test-Framework-Part3/screenshots/testLogin.png
+Test-Framework-Part3/target/.DS_Store
+Test-Framework-Part3/target/classes/META-INF/MANIFEST.MF
+Test-Framework-Part3/target/classes/META-INF/maven/example/Test-Framework-Part3/pom.properties
+Test-Framework-Part3/test-output/.DS_Store
+Test-Framework-Part3/test-output/Automation Suite/testng-failed.xml
+Test-Framework-Part3/test-output/bullet_point.png
+Test-Framework-Part3/test-output/collapseall.gif
+*.html
+Test-Framework-Part3/test-output/Default suite/Default test.xml
+Test-Framework-Part3/test-output/Default suite/testng-failed.xml
+.DS_Store
+Test-Framework-Part3/test-output/failed.png
+Test-Framework-Part3/test-output/jquery-3.6.0.min.js
+Test-Framework-Part3/test-output/junitreports/TEST-tests.LoginTest.xml
+Test-Framework-Part3/test-output/navigator-bullet.png
+Test-Framework-Part3/test-output/passed.png
+Test-Framework-Part3/test-output/skipped.png
+Test-Framework-Part3/test-output/testng-failed.xml
+Test-Framework-Part3/test-output/testng-reports.css
+Test-Framework-Part3/test-output/testng-reports.js
+Test-Framework-Part3/test-output/testng-reports1.css
+Test-Framework-Part3/test-output/testng-reports2.js
+Test-Framework-Part3/test-output/testng-results.xml
+Test-Framework-Part3/testng.out.xml
