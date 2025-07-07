@@ -1,0 +1,25 @@
+src/main/java/
+├── base/
+│   ├── BaseTest.java
+│   └── TestListener.java
+├── drivers/
+│   └── DriverController.java
+├── managers/
+│   ├── PageObjectManager.java
+│   └── ReportManager.java
+├── pages/
+│   ├── LoginPage.java
+│   └── ContactPage.java
+├── utils/
+│   ├── ConfigReader.java
+│   └── ExtentReport.java
+└── tests/
+    ├── LoginTest.java
+    └── ContactUsTest.java
+src/main/resources/
+├── config.properties
+├── dev-config.properties
+├── qa-config.properties
+└── uat-config.properties
+pom.xml
+testng.xml

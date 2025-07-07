@@ -113,7 +113,6 @@ codestudio-selenium-testng-framework/target/
 codestudio-selenium-testng-framework/test-output/
 codestudio-selenium-testng-framework/.classpath
 codestudio-selenium-testng-framework/.project
-selenium-testng-framework-detail-example/.project
 
 # selenium-testng-framework-detail-example
 selenium-testng-framework-detail-example/.settings/
@@ -125,3 +124,22 @@ selenium-testng-framework-detail-example/.project
 selenium-testng-system-environments-example/.settings/
 selenium-testng-system-environments-example/.classpath
 selenium-testng-system-environments-example/test-output/
+
+Test-Framework-Master/.gitignore.rtf
+Test-Framework-Part1/ExtentReports/
+Test-Framework-Part2/untitled
+
+Test-Framework-Part3/.classpath
+Test-Framework-Part3/.DS_Store
+Test-Framework-Part3/.project
+Test-Framework-Part3/.settings
+Test-Framework-Part3/.settings
+Test-Framework-Part3/ExtentReports/
+
+Test-Framework-Part3/src/.DS_Store
+Test-Framework-Part3/screenshots/
+
+Test-Framework-Part3/target/.DS_Store
+Test-Framework-Part3/target/classes
+
+Test-Framework-Part3/test-output/
