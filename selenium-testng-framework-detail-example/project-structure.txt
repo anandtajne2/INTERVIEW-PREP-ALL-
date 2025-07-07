@@ -1,0 +1,21 @@
+selenium-framework/  
+├── src/main/java  
+│   ├── base/  
+│   │   ├── BaseTest.java  
+│   │   └── DriverManager.java  
+│   ├── constants/  
+│   │   └── Constants.java  
+│   ├── managers/  
+│   │   └── PageObjectManager.java  
+│   ├── pageObjects/  
+│   │   ├── HomePage.java  
+│   │   └── LoginPage.java  
+│   └── utils/  
+│       └── ConfigReader.java  
+├── src/test/java/  
+│   └── tests/  
+│       └── LoginTest.java  
+├── src/test/resources/  
+│   ├── config.properties  
+│   └── testng.xml  
+└── pom.xml  

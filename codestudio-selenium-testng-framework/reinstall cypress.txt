@@ -1,0 +1,16 @@
+reinstall cypress 
+------------------
+
+if cypress version is update e.g 13 -> 14 
+
+1. npx cypress cache clear
+
+2. Reinstall Cypress
+Run this in your project directory: npx cypress install
+
+If you're using npm: npm install cypress --save-dev
+
+3. Verify Installation
+Once installed, run: npx cypress verify
+
+Then launch Cypress: npx cypress open

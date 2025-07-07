@@ -113,3 +113,15 @@ codestudio-selenium-testng-framework/target/
 codestudio-selenium-testng-framework/test-output/
 codestudio-selenium-testng-framework/.classpath
 codestudio-selenium-testng-framework/.project
+selenium-testng-framework-detail-example/.project
+
+# selenium-testng-framework-detail-example
+selenium-testng-framework-detail-example/.settings/
+selenium-testng-framework-detail-example/.classpath
+selenium-testng-framework-detail-example/test-output/
+selenium-testng-framework-detail-example/.project
+
+# selenium-testng-system-environments-example
+selenium-testng-system-environments-example/.settings/
+selenium-testng-system-environments-example/.classpath
+selenium-testng-system-environments-example/test-output/
