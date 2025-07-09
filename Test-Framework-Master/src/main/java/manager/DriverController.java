@@ -26,7 +26,7 @@ public class DriverController {
 
 	public static void initializeBrowser() {
 		try {
-			loadProperty("dev");
+			loadProperty(System.getProperty("Environment"));
 			String browser = properties.getProperty("browser");
 
 			if (properties.getProperty("executiontype").equalsIgnoreCase(CommonConstant.Local)) {
@@ -79,7 +79,7 @@ public class DriverController {
 			// TODO: handle exception
 		}
 //		driver.manage().window().maximize();
-		if (System.getProperty("Environment", "dev").equalsIgnoreCase("dev")) {
+		if (System.getProperty("Environment").equalsIgnoreCase("dev")) {
 			loadURL(properties.getProperty("devurl"));
 		} else if (System.getProperty("Environment").equalsIgnoreCase("qa")) {
 			loadURL(properties.getProperty("qaurl"));

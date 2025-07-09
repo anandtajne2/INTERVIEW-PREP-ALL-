@@ -15,7 +15,7 @@ public class LoginTest extends BaseClass {
 //		loginPage = new LoginPage(getDriver());
 //		System.out.println(loginPage);
 //		loginPage.loginApplication();
-		factory = new PageObjectFactory(getDriver());
+		factory = new PageObjectFactory();
 		PageObjectFactory.getLoginPage().loginApplication();
 	}
 
